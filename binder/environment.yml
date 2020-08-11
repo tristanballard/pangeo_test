@@ -38,7 +38,7 @@ dependencies:
   - ipyleaflet
   - graphviz
   - dask-gateway==0.7.1
-  - dask_kubernetes
+  - dask-kubernetes
   - xhistogram
   - pip:
     - git+https://github.com/xgcm/xgcm.git
