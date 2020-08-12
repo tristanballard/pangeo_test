@@ -43,8 +43,8 @@ dependencies:
   - xesmf
   - time
   - xclim
-  - climate-indices
   - pip:
     - git+https://github.com/xgcm/xgcm.git
     - git+https://github.com/pydata/xarray.git
+    - climate-indices==1.0.9
 
