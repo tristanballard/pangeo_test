@@ -38,9 +38,9 @@ dependencies:
   - ipyleaflet
   - graphviz
   - dask-gateway==0.7.1
-  - dask-kubernetes
   - xhistogram
-  - xesmf
+  - esmpy==7.1.0
+  - xesmf==0.2.1
   - time
   - xclim
   - pip:
