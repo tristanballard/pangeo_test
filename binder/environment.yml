@@ -40,6 +40,10 @@ dependencies:
   - dask-gateway==0.7.1
   - dask-kubernetes
   - xhistogram
+  - xesmf
+  - time
+  - xclim
+  - climate-indices
   - pip:
     - git+https://github.com/xgcm/xgcm.git
     - git+https://github.com/pydata/xarray.git
